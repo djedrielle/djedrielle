@@ -4,7 +4,7 @@
 =====================================================================
  INSTRUCCIONES:
  1. Reemplaza en TODO el archivo:
-      TU_USUARIO   -> tu username de GitHub (ej: juanperez)
+      djedrielle   -> tu username de GitHub (ej: juanperez)
       TU_NOMBRE    -> tu nombre a mostrar
  2. Cada bloque está separado y comentado. Prueba, quita lo que no
     te guste, y quédate con lo que más te sirva.
@@ -23,7 +23,7 @@
       text=   -> el texto que aparece (usa + en lugar de espacios)
 =================================================================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20TU_NOMBRE&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Hola,%20soy%20TU_NOMBRE&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 
@@ -32,7 +32,7 @@
     readme-typing-svg anima líneas de texto. Separa frases con ';'
 =================================================================== -->
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/djedrielle"
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+de+software;Amante+del+open+source;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
@@ -43,7 +43,7 @@
     Muestra cuántas veces se ha visto tu perfil.
 =================================================================== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas+al+perfil&color=blueviolet&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=djedrielle&label=Visitas+al+perfil&color=blueviolet&style=flat" alt="contador de visitas" /
 </p>
 
 
@@ -68,8 +68,8 @@
 ## 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/djedrielle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a
+  <a href="https://twitter.com/djedrielle"><img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a
   <a href="mailto:tucorreo@ejemplo.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://tuportafolio.com"><img src="https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
@@ -113,8 +113,8 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djedrielle&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djedrielle&layout=compact&theme=radical" /
 </p>
 
 
@@ -125,7 +125,7 @@
 ## 🔥 Racha de contribuciones
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=djedrielle&theme=radical" /
 </p>
 
 
@@ -136,7 +136,7 @@
 ## 🏆 Trofeos
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=djedrielle&theme=radical&no-frame=true&column=7" /
 </p>
 
 
@@ -147,15 +147,15 @@
 ## 📈 Tarjetas resumen
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djedrielle&theme=radical" /
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TU_USUARIO&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TU_USUARIO&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=djedrielle&theme=radical" /
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=djedrielle&theme=radical" /
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TU_USUARIO&theme=radical&utcOffset=-6" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TU_USUARIO&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=djedrielle&theme=radical&utcOffset=-6" /
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=djedrielle&theme=radical" /
 </p>
 
 
@@ -169,7 +169,7 @@
 ## 🐍 Contribuciones (Snake)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/djedrielle/djedrielle/output/github-contribution-grid-snake.svg" /
 </p>
 
 
@@ -180,7 +180,7 @@
 =================================================================== -->
 <!--
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/djedrielle/djedrielle/main/github-metrics.svg" /
 </p>
 -->
 
@@ -214,7 +214,7 @@
  - SNAKE ANIMATION (#11)
  - GITHUB METRICS (#12)
 
- Necesitan un GitHub Action dentro de tu repo especial (TU_USUARIO/TU_USUARIO):
+ Necesitan un GitHub Action dentro de tu repo especial (djedrielle/djedrielle)
  crear un archivo en  .github/workflows/  que corra periódicamente,
  genere el SVG y lo guarde en una rama (normalmente 'output').
  Cuando lleguemos a pulir, te preparo esos workflows .yml.
@@ -223,4 +223,3 @@
    default, radical, dark, tokyonight, dracula, gruvbox, merko,
    onedark, cobalt, synthwave, highcontrast, transparent
 =====================================================================
--->
