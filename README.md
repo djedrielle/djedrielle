@@ -3,7 +3,7 @@
     Aquí va tu bio. Los emojis son solo decorativos.
 =================================================================== -->
 ## Hi, Djedrielle here!
-I'm a software engineering student at Tecnológico de Costa Rica, I love learning and doing sports...
+I'm a software engineering student at Tecnológico de Costa Rica who loves learning and doing sports...
 
 <!-- ================================================================
  5) BADGES DE REDES SOCIALES (shields.io)
